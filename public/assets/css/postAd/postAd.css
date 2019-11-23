@@ -1,0 +1,119 @@
+._1post_ads {
+    padding: 19px 0 25px;
+}
+._1post_ads_title {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+    margin: 0 0 6px;
+}
+._1post_ads_main {
+    margin-top: 6rem;
+    padding: 0 100px 0;
+}
+._1post_ads_left {
+    border: solid 2px #e9e9ff;
+    border-radius: 4px;
+    padding: 33px 22px 19px;
+    height: 250px;
+    overflow: auto;
+}
+._1post_ads_pic {
+    width: 86px;
+    padding: 8px 11px 8px;
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fff;
+}
+._1post_ads_img{}
+._1post_ads_list{}
+._1post_ads_list_ul{}
+._1post_ads_list_ul li:last-child{
+	border-bottom: 1px solid #ededff;
+}
+._1post_ads_list_ul li {
+    display: block;
+    border-top: 1px solid #ededff;
+}
+._1post_ads_list_ul li a i{
+	    float: right;
+    padding: 3px 0 0;
+    font-size: 17px;
+    color: #ddd;
+}
+._1post_ads_list_ul li a {
+    color: inherit;
+    padding: 10px 7px;
+    font-size: 14px;
+    display: block;
+}
+._1post_ads_list_title {
+    font-weight: 400;
+    color: #2f3432;
+    margin: 24px 0 16px;
+    text-align: center;
+    font-size: 18px;
+}
+._1post_ads_free {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid;
+    padding: 24px 0 0;
+    margin: 28px 0 0;
+}
+._1post_ads_free_pic {
+    flex: 0 0 auto;
+    margin-right: 18px;
+}
+._1post_ads_free_img {
+    width: 63px;
+}
+._1post_ads_free_details{
+	flex: 0 0 auto;
+}
+._1post_ads_free_title {
+    color: #333;
+    font-size: 22px;
+}
+._1post_ads_free_learn {
+    font-size: 13px;
+    cursor: pointer;
+    display: inline-block;
+}
+._1post_ads_bottom {
+    padding: 15px 20px 20px;
+}
+._quick {
+    font-size: 20px;
+    color: #333;
+    margin: 0 0 16px;
+}
+._all_ads {
+    color: #333;
+    font-size: 19px;
+    margin: 0 0 8px;
+}
+._1post_ads_bottom_list {
+    padding: 0 0 0 30px;
+}
+._1post_ads_bottom_list li {
+    font-size: 14px;
+    padding: 7px 0 0px;
+}
+._1post_ads_bottom_click{
+	text-align: right;
+	padding-top: 15px;
+}
+._1post_ads_bottom_click a i {
+    color: #ddd;
+    font-size: 19px;
+    padding: 0 0 0 9px;
+}
+._1post_ads_bottom_click a {
+    font-size: 14px;
+    display: inline-flex;
+    align-items: center;
+}

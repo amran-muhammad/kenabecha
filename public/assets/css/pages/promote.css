@@ -1,0 +1,110 @@
+._1promote{}
+._1promote ._4title {
+    margin: 6px 0 20px;
+}
+._1promote_mails{}
+._1promote_ad {
+    margin-left: -4px;
+    margin-right: -4px;
+}
+._1promote_ad_main {
+    padding: 0 4px 0;
+}
+._1promote_ad_main_all:hover{
+	background: whitesmoke;
+}
+._1promote_ad_main_all {
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 14px 12px 10px;
+    transition: .3s background ease;
+}
+._1promote_ad_radio{}
+._1promote_ad_details_all {
+    padding: 0 0 0 12px;
+}
+._1promote_ad_icons {
+    padding: 5px 0 0;
+    margin: 0 12px 0 0;
+}
+._1promote_ad_icons i{
+	    font-size: 46px;
+}
+._1promote_ad_details{}
+._1promote_ad_title {
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+}
+._1promote_ad_text {
+    font-size: 13px;
+    line-height: 18px;
+    padding: 6px 0 0px;
+}
+._1promote_ad_more:hover{
+	opacity: .8;
+}
+._1promote_ad_more{
+	font-size: 14px;
+}
+._1promote_method_all ._4title {
+    margin: 0 0 13px;
+}
+._1promote_method_all {
+    border-bottom: 1px solid;
+    margin: 0 0 20px;
+    padding: 36px 0 24px;
+}
+._1promote_method{}
+._1promote_method_all_main {
+    align-items: center;
+    margin: 0 41px 0 0;
+}
+._1promote_method_radio {
+    margin: 0 8px 0 0;
+}
+._1promote_method_img{}
+._1promote_discount {
+    background-image: url(../../img/best.png);
+    background-repeat: no-repeat;
+    padding: 0 0 0 54px;
+    margin: 0 0;
+}
+._1promote_discount_title{}
+._1promote_discount_learn{}
+._1promote_discount_learn:hover{
+	opacity: .8;
+}
+._1promote_go{
+	background: linear-gradient(#eee, #f7f7f9);
+}
+._1promote_mails_text{}
+._1promote_mails_text_a{
+	font-size: 14px;
+}
+._1promote_mails_text_a:hover{
+	opacity: .8;
+}
+
+
+/*mobile*/
+@media only screen and (max-width: 767px) {
+._1promote_ad_main {
+    flex: 0 0 100%;
+    margin: 7px 0;
+}
+._1promote_method_all {
+    overflow: hidden;
+}
+._1promote_mails {
+    padding: 25px 15px;
+}
+
+
+}
+
+/*Ipad Tablet*/
+@media only screen and (min-width: 768px) and (max-width: 1041px) { 
+
+
+}

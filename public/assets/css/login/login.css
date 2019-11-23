@@ -1,0 +1,76 @@
+._1login {
+    padding: 35px;
+    margin-bottom: 30px;
+}
+._1login_left_all {
+    border-right: 1px solid;
+    padding-right: 32px;
+}
+._1login_left{}
+._1login_left_title {
+    color: #333;
+    font-size: 22px;
+}
+._1login_left_text {
+    font-size: 14px;
+    padding: 3px 0 9px;
+}
+._1login_left_contant_all{}
+._1login_left_contant {
+    align-items: center;
+    margin: 28px 0 0;
+}
+._1login_left_contant_icons {
+    font-size: 40px;
+    height: 60px;
+    width: 60px;
+    border: 1px solid;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 15px;
+    flex: 0 0 auto;
+}
+._1login_left_contant_text {
+    font-size: 14px;
+}
+._1login_right_all{
+	padding-left: 32px;
+}
+._1login_or{
+	font-size: 13px;
+	text-align: center;
+	font-weight: bold;
+	margin:10px 0px 15px;
+}
+.forget {
+	font-size: 13px;
+    margin: 22px 0 30px;
+    display: inline-block;
+}
+._1login_signup {
+    text-align: center;
+    border-top: 1px solid;
+    padding: 27px 0 24px;
+}
+._1login_signup_dont {
+    color: #333;
+    font-size: 16px;
+    margin: 0 0 13px;
+}
+._1sign_up {
+    margin-bottom: 30px;
+}
+._1sign_up_main {
+    padding: 41px 56px 26px;
+    margin-bottom: 30px;
+}
+._1sign_up_title{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+
+

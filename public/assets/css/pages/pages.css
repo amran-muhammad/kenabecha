@@ -1,0 +1,56 @@
+._1pages {
+    margin-bottom: 30px;
+}
+._1pages_header {
+    background-image: url(../../img/pages.png);
+    padding: 64px 0 131px;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+}
+._1pages_header_title {
+    text-align: center;
+    color: #000;
+    font-size: 21px;
+}
+._1pages_header_text {
+    width: 80%;
+    margin: 0 auto;
+    color: #565353;
+    text-align: center;
+    padding: 21px 0 0;
+}
+._1pages_main {
+    padding: 49px 27px 30px;
+}
+._1pages_title {
+    font-size: 21px;
+    color: #333;
+    margin-bottom: 2px;
+    padding: 0 0 5px;
+}
+._1pages_main_right ._text{
+	margin-bottom: 15px;
+}
+._1pages_main_right {
+    padding-left: 45px;
+}
+._1terms {
+    padding: 43px 114px;
+}
+._1terms ._text{
+	margin-bottom: 15px;
+}
+._1terms_title{
+	font-size: 20px;
+	color: #333;
+	margin-bottom: 30px;
+}
+._1pages_main ._text{
+    margin-bottom: 15px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}

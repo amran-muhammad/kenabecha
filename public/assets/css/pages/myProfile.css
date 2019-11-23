@@ -1,0 +1,143 @@
+._1profile_heading {
+    display: flex;
+}
+._1profile_heading_title {
+    color: #333;
+    font-size: 20px;
+    flex: 1 1;
+}
+._1profile_slider{}
+._1profile_slider_top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+._1profile_slider_text {
+    font-size: 12px;
+}
+._1profile_slider_num {
+    font-size: 12px;
+}
+._1profile_slider_slider_main{}
+._1profile_main {
+    margin-top: 29px;
+}
+._1profile_main_heading {
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid;
+    padding: 0 0 11px;
+    margin-bottom: 26px;
+}
+._1profile_main_heading_title {
+    font-weight: bold;
+    color: #333;
+    font-size: 16px;
+    flex: 1 1;
+    padding-right: 17px;
+}
+._1profile_edit {
+    flex: 0 0 auto;
+}
+._1profile_edit button {
+    height: 28px;
+    line-height: 28px;
+    font-size: 12px;
+}
+._1profile_details {
+    display: flex;
+    align-items: center;
+    margin-bottom: 37px;
+}
+._1profile_details_img {
+    height: 72px;
+    width: 72px;
+    border-radius: 100%;
+    margin-right: 15px;
+}
+._1profile_details_pic{
+	flex: 0 0 auto;
+}
+._1profile_details_pro{}
+._1profile_details_name {
+    font-size: 16px;
+    color: #333;
+}
+._1profile_details_phone{}
+._1profile_details_phone i {
+    font-size: 20px;
+    color: #3b3b98;
+    transform: rotate(-45deg);
+    padding-right: 3px;
+}
+._1profile_edit_main_all {
+    padding: 39px 49px 47px;
+    margin-bottom: 30px;
+}
+._1profile_edit_main{}
+._1profile_edit_main{}
+._1profile_edit_all{}
+._1profile_edit_upload {
+    display: flex;
+    align-items: center;
+}
+._1profile_edit_upload ._1post_ads_3steps_add_details_text {
+    margin-left: 14px;
+}
+._1profile_edit_upload_btn input {
+    width: 300px;
+    position: absolute;
+    height: 100%;
+    opacity: 0;
+    z-index: 1;
+}
+._1profile_edit_upload_btn input{}
+._1profile_edit_upload_btn {
+    position: relative;
+}
+._1post_ads_3steps_add_details_text {
+    display: inline-flex;
+    align-items: center;
+    font-size: 13px;
+    cursor: pointer;
+}
+._1post_ads_3steps_add_details_text i {
+    background: red;
+    color: #fff;
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    font-size: 12px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 6px 0 0;
+}
+._1pro_menu{}
+._1pro_menu_list{}
+._1pro_menu_list li {
+    display: inline-block;
+    margin-right: 9px;
+}
+._1pro_menu_list li i {
+    padding-left: 8px;
+    font-size: 14px;
+}
+._1pro_menu_list li a:hover{
+	opacity: .8;
+}
+._1pro_menu_list li a{
+	color:inherit;
+	font-size: 14px;
+}
+._1pro_menu_active{
+	font-weight: bold;
+}
+._edit_button button{
+	min-width: 150px;
+}
+.{}
+.{}
+.{}
+.{}
